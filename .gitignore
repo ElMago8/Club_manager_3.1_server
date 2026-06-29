@@ -8,4 +8,5 @@ dist/
 dev.db
 *.db
 prisma/*.db
-uploads/
+uploads/*
+!uploads/.gitkeep
